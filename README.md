@@ -1,6 +1,6 @@
 ## Done with the help of John Smilga`s tutorial video
 
-YouTube: https://www.youtube.com/watch?v=4UZrsTqkcW4
+YouTube vedio: https://www.youtube.com/watch?v=4UZrsTqkcW4
 
 Site: https://www.johnsmilga.com/
 
